@@ -1,4 +1,4 @@
-The projects contains an implementation of the robust snapshot radio SLAM algorithm presented in [1].
+The project contains an implementation of the robust snapshot radio SLAM algorithm presented in [1].
 
 1. Download the project to your computer and run the main file which should produce the following result:
 
