@@ -2,7 +2,7 @@ The projects contains an implementation of the robust snapshot radio SLAM algori
 
 1. Download the project to your computer and run the main file which should produce the following result:
 
-   LOS, estimates:  32/45, rmse: 0.2882 [m] 1.9456 [deg] 1.0554 [ns], time: 0.0307/0.3894 [ms]
+   LOS, estimates:  32/45, rmse: 0.2882 [m] 1.9456 [deg] 1.0554 [ns], time: 0.0307/0.3894 [ms] \\
    
    NLOS, estimates: 13/45, rmse: 0.4886 [m] 2.2702 [deg] 2.1263 [ns], time: 8.7723/0.3391 [ms]
 
